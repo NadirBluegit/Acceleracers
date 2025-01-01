@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    padding: 0;
+    overflow-x: 0;
+    font-family: Rubik, "Rubik Light", !important;
+}
+
+.navLogo {
+    width: 7rem;
+}
+
+.divi {
+    width: 50%;
+    height: 200px;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.childd {
+    width: 50%;
+    padding: 3rem;
+    background-color: red;
+    color: black;
+    font-size: 32px;
+    text-align: center;
+    justify-content: center;
+}
